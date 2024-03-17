@@ -1,0 +1,45 @@
+svm emissary
+svm emissary adasyn
+svm emissary borderlinesmote
+svm emissary randomover
+svm emissary smoteover
+svm emissary nearmissunder1
+svm emissary nearmissunder2
+svm emissary nearmissunder3
+svm emissary randomunder
+randomforest emissary
+randomforest emissary adasyn
+randomforest emissary borderlinesmote
+randomforest emissary randomover
+randomforest emissary smoteover
+randomforest emissary nearmissunder1
+randomforest emissary nearmissunder2
+randomforest emissary nearmissunder3
+randomforest emissary randomunder
+naivebayes emissary
+naivebayes emissary adasyn
+naivebayes emissary borderlinesmote
+naivebayes emissary randomover
+naivebayes emissary smoteover
+naivebayes emissary nearmissunder1
+naivebayes emissary nearmissunder2
+naivebayes emissary nearmissunder3
+naivebayes emissary randomunder
+decisiontree emissary
+decisiontree emissary adasyn
+decisiontree emissary borderlinesmote
+decisiontree emissary randomover
+decisiontree emissary smoteover
+decisiontree emissary nearmissunder1
+decisiontree emissary nearmissunder2
+decisiontree emissary nearmissunder3
+decisiontree emissary randomunder
+logisticregression emissary
+logisticregression emissary adasyn
+logisticregression emissary borderlinesmote
+logisticregression emissary randomover
+logisticregression emissary smoteover
+logisticregression emissary nearmissunder1
+logisticregression emissary nearmissunder2
+logisticregression emissary nearmissunder3
+logisticregression emissary randomunder
